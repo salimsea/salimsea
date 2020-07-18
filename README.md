@@ -7,4 +7,4 @@
 
 ### Visitors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=salimsea.salimsea)
