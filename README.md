@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://user-images.githubusercontent.com/49223890/154900339-db9742e8-41d9-4701-9eb1-de0bcf243954.png" width="50%" />
+![ogimage](https://user-images.githubusercontent.com/49223890/154901485-4e4dded3-0d4f-42fe-952f-d828e8f6a296.png)
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=salimsea&show_icons=true)
 
