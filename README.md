@@ -17,3 +17,6 @@ Assalamualaikum Warahmatullahi Wabarakatuh, Brother! <br /><br />
 ### Visitors
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=salimsea.salimsea)
+
+### Badges (Holopin.io) 
+[![@salimsea's Holopin board](https://holopin.io/api/user/board?user=salimsea)](https://holopin.io/@salimsea)
